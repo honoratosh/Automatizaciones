@@ -20,9 +20,9 @@ Throughout our careers we have participated in process improvement initiatives i
 ## Routing
 | Task | Go to | Read |
 |------|-------|------|
-| Client work for facility | /client-facility | CONTEXT.md |
-| Build a new proposal | /templates | CONTEXT.md, then client folder |
-| Outreach or pipeline | /business-dev | CONTEXT.md |
+| Client work for facility | /i2c/client-facility | CONTEXT.md |
+| Build a new proposal | /i2c/templates | CONTEXT.md, then client folder |
+| Outreach or pipeline | /i2c/business-dev | CONTEXT.md |
 
 ## Rules
 - Never reference one client's information in another client's workspace

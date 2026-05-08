@@ -23,8 +23,16 @@ I have a workspace to automate my tax calculation and payment in:
 - /Taxes - Projects related to tax payments.
 
 ## Routing
+| Task | Go to | Read |
+|------|-------|------|
+| Work with discrete structures | /EDA | CONTEXT.md |
+| Work with formal languages | /LFyA | CONTEXT.md |
+| Work with the mechanic workshop | /Workshop | CONTEXT.md |
+| Work with i2c | /i2c | CONTEXT.md 
+| Work with taxes | /Taxes | CONTEXT.md 
 
 ## Rules
 - Never reference one project's information in another project's workspace
+- Don't read files from other workspaces if in doubt
 
 Apply these instructions immediately.
